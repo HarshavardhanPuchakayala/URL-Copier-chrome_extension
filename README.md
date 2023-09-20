@@ -1,5 +1,5 @@
 # chrome_extension
-I've developed a Chrome extension that simplifies web data extraction and management. This extension utilizes HTML, CSS, and JavaScript to offer three key functions:
+Developed a Chrome extension that simplifies web data extraction and management. This extension utilizes HTML, CSS, and JavaScript to offer three key functions:
 
 1. **Input Data**: Users can input data, which is displayed within the extension for easy reference.
 
